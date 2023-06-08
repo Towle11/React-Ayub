@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Towle11/React-ayub/static/css/main.f928ce1d.css",
+    "main.js": "/Towle11/React-ayub/static/js/main.a408b1e5.js",
+    "static/js/787.a5cad257.chunk.js": "/Towle11/React-ayub/static/js/787.a5cad257.chunk.js",
+    "static/media/light-on.png": "/Towle11/React-ayub/static/media/light-on.84d12f7d476df2a77322.png",
+    "static/media/light-off.png": "/Towle11/React-ayub/static/media/light-off.90216f5bd6c584c6ba6f.png",
+    "index.html": "/Towle11/React-ayub/index.html",
+    "main.f928ce1d.css.map": "/Towle11/React-ayub/static/css/main.f928ce1d.css.map",
+    "main.a408b1e5.js.map": "/Towle11/React-ayub/static/js/main.a408b1e5.js.map",
+    "787.a5cad257.chunk.js.map": "/Towle11/React-ayub/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f928ce1d.css",
+    "static/js/main.a408b1e5.js"
+  ]
+}
