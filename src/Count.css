@@ -1,0 +1,55 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 83px;
+  }
+  
+  .counter__button {
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #e0e0e0;
+    border: none;
+    cursor: pointer;
+  }
+  .heading  
+  {  font-size: 1.5rem;
+    margin-bottom: 1rem;
+    padding: 30px;
+  }
+  .counter__value {
+    font-size: 2rem;
+    margin: 1rem 0;
+  }
+  
+  .counter__reset {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #ff4081;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .counter__reset:hover {
+    background-color: #e0407f;
+  }
+  
+  /* Media Queries */
+  @media (min-width: 768px) {
+    .counter {
+      flex-direction: row;
+      justify-content: center;
+    }
+  
+    .counter__value {
+      margin: 0 1rem;
+    }
+  
+    .counter__reset {
+      margin-top: 0;
+      margin-left: 1rem;
+    }
+  }
+  
